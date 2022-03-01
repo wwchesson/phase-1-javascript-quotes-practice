@@ -1,11 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
       "id": 2,
       "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
       "author": "Hannah Gadsby"
@@ -54,18 +49,48 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "In whatever way people surrender unto Me, I reciprocate accordingly. Everyone follows My path, knowingly or unknowingly, O son of Pritha.",
+      "author": "Bhagavad Gita",
+      "id": 12
+    },
+    {
+      "quote": "Abandon all varieties of dharmas and simply surrender unto Me alone. I shall liberate you from all sinful reactions; do not fear.",
+      "author": "Bhagavad Gita",
+      "id": 13
+    },
+    {
+      "quote": "You can either choose the pain of discipline or the pain of regret.",
+      "author": "Unknown",
+      "id": 14
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": "2",
+      "id": 3
+    },
+    {
+      "quoteId": "14",
+      "id": 4
+    },
+    {
+      "quoteId": "14",
+      "id": 5
+    },
+    {
+      "quoteId": "14",
+      "id": 6
+    },
+    {
+      "quoteId": "14",
+      "id": 7
     }
   ]
 }
